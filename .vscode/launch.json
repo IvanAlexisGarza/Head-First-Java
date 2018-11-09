@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyFirstApp",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MyFirstApp",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - myFirstClass",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "myFirstClass",
+            "args": ""
+        }
+    ]
+}
